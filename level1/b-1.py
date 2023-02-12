@@ -1,5 +1,4 @@
 n = int(input())
-a = [n]   
 a =  list(map(int, input().split()))
 
 out_cnt = 0
